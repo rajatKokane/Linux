@@ -1,0 +1,36 @@
+Hello Ditiss!!
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ cd ..
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ mkdir 80462_day3
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ cd 80462_day3
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3$ mkdir 80462_day3
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3$ cd 80462_day3
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3$ touch file1.txt file2.txt file3.txt file4.doc file5.doc file6.doc file7.bak file8.bak file9.bak file10.sh file11.sh file12.sh
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3$ ls *.txt
+file1.txt  file2.txt  file3.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3$ rm *.bak
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3$ chmod +x *.sh
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3$ mkdir files
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3$ cd files
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files$ mkdir text_files audio_files video_files documents
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files$ cd text_files
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/text_files$ touch file1.txt file2.txt file3.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/text_files$ cd ../audio_files
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/audio_files$ touch file1.mp3 file2.mp3 file3.mp3
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/audio_files$ cd ../video_files
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/video_files$ touch file1.jpeg file2.jpeg file3.jpeg
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/video_files$ cd ../documents
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/documents$ touch file1.doc file2.doc file3.doc
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files/documents$ cd ..
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files$ ls */*.jpeg
+video_files/file1.jpeg  video_files/file3.jpeg
+video_files/file2.jpeg
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files$ mv */*.txt text_files/
+mv: 'text_files/file1.txt' and 'text_files/file1.txt' are the same file
+mv: 'text_files/file2.txt' and 'text_files/file2.txt' are the same file
+mv: 'text_files/file3.txt' and 'text_files/file3.txt' are the rrrarrrrajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3
+/files$ cp */*.doc documents/
+cp: 'documents/file1.doc' and 'documents/file1.doc' are the same file
+cp: 'documents/file2.doc' and 'documents/file2.doc' are the same file
+cp: 'documents/file3.doc' and 'documents/file3.doc' are the same file
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/80462_day3/80462_day3/files$ grep "file" */*.txt
+

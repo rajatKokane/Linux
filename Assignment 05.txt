@@ -1,0 +1,197 @@
+Hello Ditiss!!
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ ls -lt
+total 184
+-rw-rw-r-- 1 rajat rajat 17274 Nov  3 18:31 'Assignment 14.pdf'
+drwxrwxr-x 5 rajat rajat  4096 Nov  3 18:29  18oct
+-rw-rw-r-- 1 rajat rajat   346 Nov  3 18:13  linux.txt
+-rw-rw-r-- 1 rajat rajat 18703 Nov  3 18:08 'Assignment 12.pdf'
+-rw-rw-r-- 1 rajat rajat   108 Nov  3 17:56  grade.txt
+-rw-rw-r-- 1 rajat rajat 18791 Nov  3 17:51 'Assignment 11.pdf'
+-rw-rw-r-- 1 rajat rajat   145 Nov  3 17:48  data.txt
+-rw-rw-r-- 1 rajat rajat 19489 Nov  3 17:29 'Assignment 09.pdf'
+-rw-rw-r-- 1 rajat rajat 18330 Nov  3 17:16 'Assignment 08.pdf'
+-rw-rw-r-- 1 rajat rajat 18717 Nov  3 17:10 'Assignment 07.pdf'
+-rw-rw-r-- 1 rajat rajat    42 Nov  3 17:02  myname.txt
+-rw-rw-r-- 1 rajat rajat     0 Nov  3 15:27  name.txt
+drwxrwxr-x 3 rajat rajat  4096 Nov  3 14:50  my_files
+drwxrwxr-x 3 rajat rajat  4096 Nov  3 14:44  my_directory
+drwxrwxr-x 5 rajat rajat  4096 Nov  3 14:41  pictures
+-rw-rw-r-- 1 rajat rajat    26 Nov  3 14:35  my_third_file.txt
+-rw-rw-r-- 1 rajat rajat    26 Nov  3 14:34  my_other_file.txt
+-rw-rw-r-- 1 rajat rajat    19 Nov  3 14:26  myfile.txt
+-rw-rw-r-- 1 rajat rajat    29 Oct 21 16:29  file02.txt
+-rw-rw-r-- 1 rajat rajat    29 Oct 21 16:28  file01.txt
+-rw-rw-r-- 1 rajat rajat    46 Oct 21 15:02  file1.txt
+drwxrwxr-x 2 rajat rajat  4096 Oct 21 14:54  dir1
+drwxrwxr-x 2 rajat rajat  4096 Oct 21 14:54  dir2
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ ls -lS
+total 184
+-rw-rw-r-- 1 rajat rajat 19489 Nov  3 17:29 'Assignment 09.pdf'
+-rw-rw-r-- 1 rajat rajat 18791 Nov  3 17:51 'Assignment 11.pdf'
+-rw-rw-r-- 1 rajat rajat 18717 Nov  3 17:10 'Assignment 07.pdf'
+-rw-rw-r-- 1 rajat rajat 18703 Nov  3 18:08 'Assignment 12.pdf'
+-rw-rw-r-- 1 rajat rajat 18330 Nov  3 17:16 'Assignment 08.pdf'
+-rw-rw-r-- 1 rajat rajat 17274 Nov  3 18:31 'Assignment 14.pdf'
+drwxrwxr-x 5 rajat rajat  4096 Nov  3 18:29  18oct
+drwxrwxr-x 2 rajat rajat  4096 Oct 21 14:54  dir1
+drwxrwxr-x 2 rajat rajat  4096 Oct 21 14:54  dir2
+drwxrwxr-x 3 rajat rajat  4096 Nov  3 14:44  my_directory
+drwxrwxr-x 3 rajat rajat  4096 Nov  3 14:50  my_files
+drwxrwxr-x 5 rajat rajat  4096 Nov  3 14:41  pictures
+-rw-rw-r-- 1 rajat rajat   346 Nov  3 18:13  linux.txt
+-rw-rw-r-- 1 rajat rajat   145 Nov  3 17:48  data.txt
+-rw-rw-r-- 1 rajat rajat   108 Nov  3 17:56  grade.txt
+-rw-rw-r-- 1 rajat rajat    46 Oct 21 15:02  file1.txt
+-rw-rw-r-- 1 rajat rajat    42 Nov  3 17:02  myname.txt
+-rw-rw-r-- 1 rajat rajat    29 Oct 21 16:28  file01.txt
+-rw-rw-r-- 1 rajat rajat    29 Oct 21 16:29  file02.txt
+-rw-rw-r-- 1 rajat rajat    26 Nov  3 14:34  my_other_file.txt
+-rw-rw-r-- 1 rajat rajat    26 Nov  3 14:35  my_third_file.txt
+-rw-rw-r-- 1 rajat rajat    19 Nov  3 14:26  myfile.txt
+-rw-rw-r-- 1 rajat rajat     0 Nov  3 15:27  name.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ ls -li
+total 184
+1086318 drwxrwxr-x 5 rajat rajat  4096 Nov  3 18:29  18oct
+ 664858 -rw-rw-r-- 1 rajat rajat 18717 Nov  3 17:10 'Assignment 07.pdf'
+ 664700 -rw-rw-r-- 1 rajat rajat 18330 Nov  3 17:16 'Assignment 08.pdf'
+ 664823 -rw-rw-r-- 1 rajat rajat 19489 Nov  3 17:29 'Assignment 09.pdf'
+ 658223 -rw-rw-r-- 1 rajat rajat 18791 Nov  3 17:51 'Assignment 11.pdf'
+ 658743 -rw-rw-r-- 1 rajat rajat 18703 Nov  3 18:08 'Assignment 12.pdf'
+ 659071 -rw-rw-r-- 1 rajat rajat 17274 Nov  3 18:31 'Assignment 14.pdf'
+ 702175 -rw-rw-r-- 1 rajat rajat   145 Nov  3 17:48  data.txt
+ 920716 drwxrwxr-x 2 rajat rajat  4096 Oct 21 14:54  dir1
+ 920718 drwxrwxr-x 2 rajat rajat  4096 Oct 21 14:54  dir2
+ 702143 -rw-rw-r-- 1 rajat rajat    29 Oct 21 16:28  file01.txt
+ 702151 -rw-rw-r-- 1 rajat rajat    29 Oct 21 16:29  file02.txt
+ 668908 -rw-rw-r-- 1 rajat rajat    46 Oct 21 15:02  file1.txt
+ 656096 -rw-rw-r-- 1 rajat rajat   108 Nov  3 17:56  grade.txt
+ 664624 -rw-rw-r-- 1 rajat rajat   346 Nov  3 18:13  linux.txt
+1086232 drwxrwxr-x 3 rajat rajat  4096 Nov  3 14:44  my_directory
+1083983 drwxrwxr-x 3 rajat rajat  4096 Nov  3 14:50  my_files
+ 660608 -rw-rw-r-- 1 rajat rajat    19 Nov  3 14:26  myfile.txt
+ 664825 -rw-rw-r-- 1 rajat rajat    42 Nov  3 17:02  myname.txt
+ 702222 -rw-rw-r-- 1 rajat rajat    26 Nov  3 14:34  my_other_file.txt
+ 702223 -rw-rw-r-- 1 rajat rajat    26 Nov  3 14:35  my_third_file.txt
+ 702261 -rw-rw-r-- 1 rajat rajat     0 Nov  3 15:27  name.txt
+1085188 drwxrwxr-x 5 rajat rajat  4096 Nov  3 14:41  pictures
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ ls -R                              
+.:
+ 18oct               'Assignment 14.pdf'   file1.txt      myname.txt
+'Assignment 07.pdf'   data.txt             grade.txt      my_other_file.txt
+'Assignment 08.pdf'   dir1                 linux.txt      my_third_file.txt
+'Assignment 09.pdf'   dir2                 my_directory   name.txt
+'Assignment 11.pdf'   file01.txt           my_files       pictures
+'Assignment 12.pdf'   file02.txt           myfile.txt
+
+./18oct:
+1.txt  2.txt  3.txt  4.txt  dir1  dir2  dir3
+
+./18oct/dir1:
+
+./18oct/dir2:
+
+./18oct/dir3:
+
+./dir1:
+
+./dir2:
+
+./my_directory:
+our_directory
+
+./my_directory/our_directory:
+
+./my_files:
+backup  file1.txt  file2.txt  file3.txt
+
+./my_files/backup:
+file1.txt  file2.txt
+
+./pictures:
+family  friends  vacation
+
+./pictures/family:
+
+./pictures/friends:
+
+./pictures/vacation:
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ cat > myname.txt
+Kokane Rajat
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ cat >> myname.txt
+Krishnanagar, Chikhali 
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ cat myname.txt
+Kokane Rajat
+Krishnanagar, Chikhali
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ stat myname.txt
+  File: myname.txt
+  Size: 36              Blocks: 8          IO Block: 4096   regular file
+Device: 10303h/66307d   Inode: 664825      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/   rajat)   Gid: ( 1000/   rajat)
+Access: 2023-11-03 21:49:24.261558056 +0530
+Modify: 2023-11-03 21:49:12.613234028 +0530
+Change: 2023-11-03 21:49:12.613234028 +0530
+ Birth: 2023-11-03 17:01:10.562751735 +0530
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ touch myname.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ stat myname.txt
+  File: myname.txt
+  Size: 36              Blocks: 8          IO Block: 4096   regular file
+Device: 10303h/66307d   Inode: 664825      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/   rajat)   Gid: ( 1000/   rajat)
+Access: 2023-11-03 21:52:37.310818198 +0530
+Modify: 2023-11-03 21:52:37.310818198 +0530
+Change: 2023-11-03 21:52:37.310818198 +0530
+ Birth: 2023-11-03 17:01:10.562751735 +0530
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ mkdir one
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ cd one
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ touch 1.txt 11.txt 111.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ mkdir two
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ cd two
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two$ touch 2.txt 22.txt 222.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two$ mkdir three
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two$ cd three
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three$ touch 3.txt 33.txt 333.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three$ mkdir four
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three$ cd four
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four$ touch 4.txt 44.txt 444.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four$ mkdir five
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four$ cd five
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four/five$ touch 5.txt 55.txt 555.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four/five$ cd ../../../..
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ cd ..
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ pwd
+/home/rajat/COSA/C2_80462_Rajat
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ ls one/two/three/four/five
+555.txt  55.txt  5.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ rm one/two/three/four/five/555.txt
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat$ cd one/two/three/four/five
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four/five$ cat << ../../3.txt
+> DITISS
+> 
+bash: warning: here-document at line 36 delimited by end-of-file (wanted `../../3.txt')
+DITISS
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four/five$ ls ../../..
+222.txt  22.txt  2.txt  three
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one/two/three/four/five$ cd ../../../..
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rm one/two/three/four/five/*
+rm: cannot remove 'one/two/three/four/five/*': No such file or directory
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rm -r one/two/three/four/five/
+rm: cannot remove 'one/two/three/four/five/': No such file or directory
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rmdir -r one/two/three/four/five/
+rmdir: invalid option -- 'r'
+Try 'rmdir --help' for more information.
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rm two/three/four/five/
+rm: cannot remove 'two/three/four/five/': Is a directory
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rmdir two/three/four/five/
+rmdir: failed to remove 'two/three/four/five/': Directory not empty
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rmdir -r two/three/four/five/
+rmdir: invalid option -- 'r'
+Try 'rmdir --help' for more information.
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rmdir -r two/three/four/five/*
+rmdir: invalid option -- 'r'
+Try 'rmdir --help' for more information.
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rm -r two/three/four/five/*
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rmdir two/three/four/five
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rm two/three/four
+rm: cannot remove 'two/three/four': Is a directory
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ rm -r two/three/four
+rajat@rajatUbuntu:~/COSA/C2_80462_Rajat/one$ 
